@@ -1,1 +1,2 @@
 fixture=tencent-bkc/bkm-b-4498659ca7814326bf4db7-wrong-mirror-source-6d960a-target commit=1
+fixture=tencent-bkc/bkm-b-4498659ca7814326bf4db7-wrong-mirror-source-6d960a-target commit=2
